@@ -4,4 +4,4 @@ set -ex
 
 uptime
 
-echo $(data) >> /tmp/result.txt
+echo $(date) >> /tmp/result.txt
